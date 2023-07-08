@@ -99,3 +99,16 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 }
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+}
+.about-info{
+    margin-right: 35px;
+    text-align: center;
+   justify-content: space-around;
+}
