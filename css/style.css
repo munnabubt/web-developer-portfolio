@@ -152,15 +152,17 @@ font-size: 15px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+margin-top: 0px;
 }
-.btn-center{
+.download-cv-btn{
     text-align: center;
-    color: #FFF;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 700;
-    background-color: #FD6E0A;
-    border-radius: 5px;
-    padding: 13px 12px;
-    margin: 0 auto;
+    margin-top: 50px;
 }
+
+.footer{
+    display: flex;
+    background: #FFF8F3;
+    
+    padding: 130px 200px;
+}
+
