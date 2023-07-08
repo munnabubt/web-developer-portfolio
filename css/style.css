@@ -112,3 +112,17 @@ main{
     text-align: center;
    justify-content: space-around;
 }
+#section-id-div{
+    color:  #757575;
+   padding: 30px 150px;
+   font-size: 18px;
+
+}
+.skills-container{
+    display: flex;
+    margin-right: 5px;
+}
+.skill-description{
+    color:  #757575;
+    font-size: small;
+}
